@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     highest = 0
     for i in range(100, 1000):

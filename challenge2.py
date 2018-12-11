@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 def main():
     fib = [1, 2]
     while fib[-1] < 4*10**6:

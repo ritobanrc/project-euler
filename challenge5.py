@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def gcd(a, b):
     if a == 0:
         return b

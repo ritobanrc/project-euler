@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 def main():
     squaresum = 0
     sumsquare = 0
